@@ -1,4 +1,4 @@
 peerjs/
 dist/
 node_modules/
-
+index.d.ts

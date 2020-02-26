@@ -14,7 +14,8 @@
     "build": "./build.sh",
     "prepare": "./build.sh"
   },
-  "main": "dist/react-native-peerjs.js",
+	"main": "dist/react-native-peerjs.js",
+	"types": "./index.d.ts",
   "devDependencies": {
     "parcel": "^1.12.3",
     "peerjs": "1.1.0"
